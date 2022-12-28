@@ -9,7 +9,7 @@ roopashree.bs@K00G4K6W7K project_name % cat test_notebook.py
 cat: test_notebook.py: No such file or directory
 roopashree.bs@K00G4K6W7K project_name % touch pooja.py
 roopashree.bs@K00G4K6W7K project_name % nano pooja.py
-
+roopashree.bs@K00G4K6W7K project_name % git init
 
 
 
